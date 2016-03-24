@@ -12,7 +12,7 @@ let contacts = [{
 	phone: "213 444, 4445"
 }, {
 	id: 3,
-	name: "Jimmy",
+	name: "Victoria",
 	phone: "215 574, 4845"
 }];
 
